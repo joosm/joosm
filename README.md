@@ -22,7 +22,7 @@
 <br/>
 
 <p align="left">
-![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true&align=left)
+![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true)
 
 </p>
 
