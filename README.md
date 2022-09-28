@@ -3,7 +3,6 @@
 - 🔭 I’m a principal researcher at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
 
 <br/>
-<br/>
 
 ### Reach out:
 
@@ -11,7 +10,6 @@
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
 <br/>
 
 ### Languages and Tools:
@@ -23,7 +21,6 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PyTorch" width="32px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 
-<br/>
 <br/>
 
 ![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true)
