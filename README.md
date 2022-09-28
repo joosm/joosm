@@ -21,9 +21,10 @@
 
 <br/>
 
+<!--
 ![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true)
-
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=joosm&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+-->
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
 [email]: mailto:smjoo@kaeri.re.kr
 [website]: https://joosm.github.io/homepage/
