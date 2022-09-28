@@ -21,8 +21,10 @@
 
 <br/>
 
+<p align="left">
 ![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true&align=left)
 
+</p>
 
 <a href="https://github.com/joosm/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joosm&repo=github-readme-stats" />
