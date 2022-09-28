@@ -21,9 +21,11 @@
 
 <br/>
 
-<div>
+<!-- <div> -->
+<a>
   <img align="left" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=joosm&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
-</div>
+</a>  
+<!-- </div> -->
 
 <!--
 ![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true)
