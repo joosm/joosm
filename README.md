@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a principal researcher at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
-
+- 👯 I'm interested in the application of ⚡cool⚡ technologies to intelligent robotic systems.
 ### You can reach me at
 
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
