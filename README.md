@@ -21,15 +21,7 @@
 
 <br/>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joosm&repo=github-readme-stats" />
-</a>
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joosm&repo=convoychat" />
-</a>
-
-![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true)
+![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true&align=left)
 
 [email]: mailto:smjoo@kaeri.re.kr
 [website]: https://joosm.github.io/homepage/
