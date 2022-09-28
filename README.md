@@ -23,6 +23,11 @@
 
 ![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true&align=left)
 
+
+<a href="https://github.com/joosm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joosm&repo=github-readme-stats" />
+</a>
+
 [email]: mailto:smjoo@kaeri.re.kr
 [website]: https://joosm.github.io/homepage/
 [linkedin]: https://kr.linkedin.com/in/sungmoon-joo-aa092767
