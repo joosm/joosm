@@ -2,6 +2,7 @@
 
 - 🔭 I’m a principal researcher at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
 - 👯 I'm interested in the application of ⚡cool⚡ technologies to intelligent robotic systems.
+- 😄 I'm an NVIDIA DLI University and Jetson AI Ambassador (NVIDIA Deep Learning Institute certified instructor).
 ### You can reach me at
 
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
