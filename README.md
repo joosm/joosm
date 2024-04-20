@@ -7,7 +7,9 @@
 ### You can reach me at
 
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+-->
 [<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Homepage" width="22px" src="https://github.com/joosm/joosm/assets/3192324/4a9d7a2e-9994-4d67-ba6b-b43cce8ef030" />][homepage]
 
@@ -36,7 +38,7 @@
 [email]: mailto:smjoo@kaeri.re.kr
 [website]: https://joosm.github.io/homepage
 [linkedin]: https://kr.linkedin.com/in/sungmoon-joo-aa092767
-[homepage]: http://www.sungmoonjoo.com
+[homepage]: https://joosm.github.io/homepage
 <!--
 **joosm/joosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
