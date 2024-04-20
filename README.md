@@ -9,7 +9,8 @@
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Homepage" width="22px" src="https://github.com/joosm/joosm/assets/3192324/4a9d7a2e-9994-4d67-ba6b-b43cce8ef030" />][website]
+[<img align="left" alt="Homepage" width="22px" src="https://github.com/joosm/joosm/assets/3192324/4a9d7a2e-9994-4d67-ba6b-b43cce8ef030" />](http://www.sungmoonjoo.com/)
+
 
 ### Languages and Tools
 
