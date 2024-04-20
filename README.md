@@ -11,8 +11,8 @@
 [<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Homepage" width="22px" src="https://github.com/joosm/joosm/assets/3192324/4a9d7a2e-9994-4d67-ba6b-b43cce8ef030" />](http://www.sungmoonjoo.com/)
 
-<br><br\>
-
+<br\>
+<br\>
 ### Languages and Tools
 
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
