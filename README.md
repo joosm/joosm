@@ -34,9 +34,9 @@
 -->
 
 [email]: mailto:smjoo@kaeri.re.kr
-[website]: https://joosm.github.io/homepage/
+[website]: https://joosm.github.io/homepage
 [linkedin]: https://kr.linkedin.com/in/sungmoon-joo-aa092767
-[homepage]: http://www.sungmoonjoo.com/
+[homepage]: http://www.sungmoonjoo.com
 <!--
 **joosm/joosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
