@@ -3,14 +3,14 @@
 - 🔭 I’m a principal researcher at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
 - 👯 I'm interested in the application of ⚡cool⚡ technologies to intelligent robotic systems.
 - 😄 I'm an [NVIDIA Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/training/) University and Jetson AI Ambassador (NVIDIA DLI certified instructor).
-<br/>
+<br>
 ### You can reach me at
 
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Homepage" width="22px" src="https://github.com/joosm/joosm/assets/3192324/4a9d7a2e-9994-4d67-ba6b-b43cce8ef030" />][website]
-<br/>
+<br>
 
 ### Languages and Tools
 
@@ -21,8 +21,8 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PyTorch" width="32px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 
-<br/>
-<br/>
+<br>
+<br>
 <!-- <div> -->
 <img align="left" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=joosm&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
 <!-- </div> -->
