@@ -3,13 +3,14 @@
 - 🔭 I’m a principal researcher at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
 - 👯 I'm interested in the application of ⚡cool⚡ technologies to intelligent robotic systems.
 - 😄 I'm an [NVIDIA Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/training/) University and Jetson AI Ambassador (NVIDIA DLI certified instructor).
-- 
+
 ### You can reach me at
 
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Homepage" width="22px" src="https://github.com/joosm/joosm/assets/3192324/4a9d7a2e-9994-4d67-ba6b-b43cce8ef030" />][website]
+
 
 ### Languages and Tools
 
