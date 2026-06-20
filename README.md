@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤖 I’m a [principal researcher](https://joosm.github.io/homepage/) in Extreme Robotics Section at [Korea Atomic Energy Research Insitute(KAERI)](https://www.kaeri.re.kr)
-- 🧠 I'm also serving as an [associate professor]([https://joosm.github.io/homepage/](https://ust.ac.kr/prog/major/kor/sub03_03_04/AB/view.do?majorNo=71&kind=professor&empNo=HofSS3gxFuBsABvEWTow5A==)) in AI major at [University of Science and Technology(UST)](https://ust.ac.kr/prog/major/kor/sub03_03_04/AB/view.do?majorNo=71&kind=professor&empNo=HofSS3gxFuBsABvEWTow5A==)
+- 🧠 I'm also serving as an associate professor[EN](https://ust.ac.kr/prog/major/eng/sub03_03_02/AB/view.do?majorNo=71#tab62)[KO](https://ust.ac.kr/prog/major/kor/sub03_03_04/AB/view.do?majorNo=71&kind=professor&empNo=HofSS3gxFuBsABvEWTow5A==)) in AI major at [University of Science and Technology(UST)](https://ust.ac.kr/prog/major/kor/sub03_03_04/AB/view.do?majorNo=71&kind=professor&empNo=HofSS3gxFuBsABvEWTow5A==)
 - 👯 I'm interested in the application of ⚡cool⚡ technologies to intelligent robotic systems.
 - 😄 I'm an [NVIDIA Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/training/) University and Jetson AI Ambassador (NVIDIA DLI certified instructor).
 
