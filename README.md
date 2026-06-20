@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a principal researcher at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
-- I'm also serving as an associate professor at [University of Science and Technology](https://ust.ac.kr/prog/major/kor/sub03_03_04/AB/view.do?majorNo=71&kind=professor&empNo=HofSS3gxFuBsABvEWTow5A==)
+- 🤖 I’m a principal researcher in Extreme Robotics Section at [Korea Atomic Energy Research Insitute](https://www.kaeri.re.kr)
+- 🧠 I'm also serving as an associate professor in AI major at [University of Science and Technology](https://ust.ac.kr/prog/major/kor/sub03_03_04/AB/view.do?majorNo=71&kind=professor&empNo=HofSS3gxFuBsABvEWTow5A==)
 - 👯 I'm interested in the application of ⚡cool⚡ technologies to intelligent robotic systems.
 - 😄 I'm an [NVIDIA Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/training/) University and Jetson AI Ambassador (NVIDIA DLI certified instructor).
 
