@@ -31,16 +31,15 @@
 <!-- <div> -->
 <img align="left" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=joosm&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
 <!-- </div> -->
-<br>
-[![Hits](https://hits.sh/pairlab.net.svg?view=today-total&label=visits)](https://hits.sh/pairlab.net/)
-<!--
-![joosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosm&show_icons=true&hide_border=true)
--->
-
 [email]: mailto:smjoo@kaeri.re.kr
 [website]: https://joosm.github.io/homepage
 [linkedin]: https://kr.linkedin.com/in/sungmoon-joo-aa092767
 [homepage]: https://joosm.github.io/homepage
+
+<br>
+<br>
+[![Hits](https://hits.sh/pairlab.net.svg?view=today-total&label=visits)](https://hits.sh/pairlab.net/)
+<br>
 <!--
 **joosm/joosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
