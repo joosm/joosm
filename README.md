@@ -36,10 +36,6 @@
 [linkedin]: https://kr.linkedin.com/in/sungmoon-joo-aa092767
 [homepage]: https://joosm.github.io/homepage
 
-<br>
-<br>
-[![Hits](https://hits.sh/pairlab.net.svg?view=today-total&label=visits)](https://hits.sh/pairlab.net/)
-<br>
 <!--
 **joosm/joosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
