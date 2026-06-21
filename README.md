@@ -38,7 +38,7 @@
 [linkedin]: https://kr.linkedin.com/in/sungmoon-joo-aa092767
 [homepage]: https://joosm.github.io/homepage
 
-<br>
+
 [![Hits](https://hits.sh/pairlab.net.svg?view=today-total&label=visits)](https://hits.sh/pairlab.net/)
 
 
